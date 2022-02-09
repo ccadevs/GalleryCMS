@@ -1,3 +1,4 @@
+<p>Upload all files on your server, install database, enjoy.</p>
 <h1 align="center">Hi 👋, I'm Mile</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
 
